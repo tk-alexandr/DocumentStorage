@@ -1,0 +1,20 @@
+C:\Users\Lite\documents\visual studio 2013\Projects\DocumentStorage\DocumentStorage.Domain\bin\Debug\DocumentStorage.Domain.dll
+C:\Users\Lite\documents\visual studio 2013\Projects\DocumentStorage\DocumentStorage.Domain\bin\Debug\DocumentStorage.Domain.pdb
+C:\Users\Lite\documents\visual studio 2013\Projects\DocumentStorage\DocumentStorage.Domain\obj\Debug\DocumentStorage.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Lite\documents\visual studio 2013\Projects\DocumentStorage\DocumentStorage.Domain\obj\Debug\DocumentStorage.Domain.dll
+C:\Users\Lite\documents\visual studio 2013\Projects\DocumentStorage\DocumentStorage.Domain\obj\Debug\DocumentStorage.Domain.pdb
+C:\Users\Lite\documents\visual studio 2013\Projects\DocumentStorage\DocumentStorage.Domain\bin\Debug\Iesi.Collections.dll
+C:\Users\Lite\documents\visual studio 2013\Projects\DocumentStorage\DocumentStorage.Domain\bin\Debug\NHibernate.dll
+C:\Users\Lite\documents\visual studio 2013\Projects\DocumentStorage\DocumentStorage.Domain\bin\Debug\Iesi.Collections.xml
+C:\Users\Lite\documents\visual studio 2013\Projects\DocumentStorage\DocumentStorage.Domain\bin\Debug\NHibernate.xml
+C:\Users\Tkach\OneDrive - vyatsu\Рабочий стол\Temp\Elma\DocumentStorage\DocumentStorage.Domain\bin\Debug\DocumentStorage.Domain.dll
+C:\Users\Tkach\OneDrive - vyatsu\Рабочий стол\Temp\Elma\DocumentStorage\DocumentStorage.Domain\bin\Debug\DocumentStorage.Domain.pdb
+C:\Users\Tkach\OneDrive - vyatsu\Рабочий стол\Temp\Elma\DocumentStorage\DocumentStorage.Domain\bin\Debug\Iesi.Collections.dll
+C:\Users\Tkach\OneDrive - vyatsu\Рабочий стол\Temp\Elma\DocumentStorage\DocumentStorage.Domain\bin\Debug\NHibernate.dll
+C:\Users\Tkach\OneDrive - vyatsu\Рабочий стол\Temp\Elma\DocumentStorage\DocumentStorage.Domain\bin\Debug\Iesi.Collections.xml
+C:\Users\Tkach\OneDrive - vyatsu\Рабочий стол\Temp\Elma\DocumentStorage\DocumentStorage.Domain\bin\Debug\NHibernate.xml
+C:\Users\Tkach\OneDrive - vyatsu\Рабочий стол\Temp\Elma\DocumentStorage\DocumentStorage.Domain\obj\Debug\DocumentStorage.Domain.csprojAssemblyReference.cache
+C:\Users\Tkach\OneDrive - vyatsu\Рабочий стол\Temp\Elma\DocumentStorage\DocumentStorage.Domain\obj\Debug\DocumentStorage.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Tkach\OneDrive - vyatsu\Рабочий стол\Temp\Elma\DocumentStorage\DocumentStorage.Domain\obj\Debug\DocumentStorage.Domain.csproj.CopyComplete
+C:\Users\Tkach\OneDrive - vyatsu\Рабочий стол\Temp\Elma\DocumentStorage\DocumentStorage.Domain\obj\Debug\DocumentStorage.Domain.dll
+C:\Users\Tkach\OneDrive - vyatsu\Рабочий стол\Temp\Elma\DocumentStorage\DocumentStorage.Domain\obj\Debug\DocumentStorage.Domain.pdb

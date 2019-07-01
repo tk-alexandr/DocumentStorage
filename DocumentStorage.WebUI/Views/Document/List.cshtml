@@ -1,0 +1,100 @@
+﻿@model DocumentStorage.WebUI.Models.DocumentsListViewModel
+
+
+@using (Html.BeginForm("", "", FormMethod.Post))
+{
+    <div class="form-row align-items-center">
+        <div class="col-auto my-1">
+
+            @{
+    List<SelectListItem> dropDownItems = new List<SelectListItem>();
+    foreach (var item in @Model.OrderInfo.SortByOptions)
+    {
+
+        dropDownItems.Add(new SelectListItem
+        {
+            Text = item.Value,
+            Value = item.Key,
+            Selected = @Model.OrderInfo.SortBy == item.Key
+        });
+
+    }
+            }
+
+            <label class="mr-sm-2" for="SortBySelect">Сортировать по:</label>
+            @Html.DropDownListFor(m => m.OrderInfo.SortBy, dropDownItems, new { @class = "custom-select mr-sm-2", @id = "SortBySelect" })
+
+        </div>
+        <div class="col-auto my-1">
+            <div class="custom-control custom-checkbox mr-sm-2">
+
+                @Html.CheckBoxFor(m => m.OrderInfo.Descending, new { @class = "custom-control-input", @id = "DescendingCheck", @checked = @Model.OrderInfo.Descending })
+
+                <label class="custom-control-label" for="DescendingCheck">В обратном порядке</label>
+
+            </div>
+
+            <div class="custom-control custom-checkbox mr-sm-2">
+                @Html.CheckBoxFor(m => m.OrderInfo.isDateEnable, new { @class = "custom-control-input", @id = "DataCheck", @checked = @Model.OrderInfo.isDateEnable })
+
+                <label class="custom-control-label" for="DataCheck">Поиск по дате</label>
+            </div>
+
+        </div>
+        <div class="col-auto my-1">
+            <button type="submit" name="SubmitOrder" value="1" class="btn btn-primary">Применить</button>
+        </div>
+    </div>
+    <div style="display: none;" id="DateSearchInputContainer" class="form-group row">
+        <div class="col-auto my-2">
+            <label class="col-form-label" for="DateSearchInput">Дата:</label>
+            @Html.TextBoxFor(m => m.OrderInfo.DateFilter, "{0:yyyy-MM-dd}", new { @type = "date", @class = "form-control", @id = "DateSearchInput" })
+        </div>
+    </div>
+}
+
+
+<table class="table table-striped">
+    <thead class="thead-dark">
+        <tr>
+            <td scope="col">№</td>
+            <td scope="col">Название</td>
+            <td scope="col">Дата</td>
+            <td scope="col">Автор</td>
+            <td scope="col">Загрузить</td>
+            <td scope="col">Открыть</td>
+        </tr>
+    </thead>
+    @foreach (var p in @Model.Documents)
+    {
+        <tr>
+            <td scope="row">@Model.PagingInfo.ItemNumerator</td>
+            <td>
+                @if (@p.Name.Length <= 30)
+                {
+                    @p.Name
+                }
+                else
+                {
+                    @p.Name.Substring(0, 30)<span>...</span>
+                }
+            </td>
+            <td>@p.Date</td>
+            <td>@p.Author.Name (@p.Author.Login)</td>
+            <td>
+                <a href="@Url.Action("Download", new { documentID = @p.DocumentID })">
+                    <img class="table-icon" src="~/Content/icons/ic_download.png" /></a>
+            </td>
+            <td>
+                <a target="_blank" href="@Url.Action("Open", new { documentID = @p.DocumentID, })">
+                    <img class="table-icon"  src="~/Content/icons/ic_open.png" /></a>
+            </td>
+        </tr>
+    }
+</table>
+
+<div class="pager">
+    @Html.PageLinks(Model.PagingInfo, x => Url.Action("List", new { page = x }))
+</div>
+<script src="~/Content/List.js"></script>
+

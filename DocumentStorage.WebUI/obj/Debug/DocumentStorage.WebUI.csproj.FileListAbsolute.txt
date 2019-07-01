@@ -1,0 +1,96 @@
+C:\Users\Lite\documents\visual studio 2013\Projects\DocumentStorage\DocumentStorage.WebUI\bin\DocumentStorage.WebUI.dll.config
+C:\Users\Lite\documents\visual studio 2013\Projects\DocumentStorage\DocumentStorage.WebUI\bin\DocumentStorage.WebUI.dll
+C:\Users\Lite\documents\visual studio 2013\Projects\DocumentStorage\DocumentStorage.WebUI\bin\DocumentStorage.WebUI.pdb
+C:\Users\Lite\documents\visual studio 2013\Projects\DocumentStorage\DocumentStorage.WebUI\bin\Antlr3.Runtime.dll
+C:\Users\Lite\documents\visual studio 2013\Projects\DocumentStorage\DocumentStorage.WebUI\bin\DocumentStorage.Domain.dll
+C:\Users\Lite\documents\visual studio 2013\Projects\DocumentStorage\DocumentStorage.WebUI\bin\EntityFramework.dll
+C:\Users\Lite\documents\visual studio 2013\Projects\DocumentStorage\DocumentStorage.WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Lite\documents\visual studio 2013\Projects\DocumentStorage\DocumentStorage.WebUI\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Lite\documents\visual studio 2013\Projects\DocumentStorage\DocumentStorage.WebUI\bin\Newtonsoft.Json.dll
+C:\Users\Lite\documents\visual studio 2013\Projects\DocumentStorage\DocumentStorage.WebUI\bin\System.Net.Http.dll
+C:\Users\Lite\documents\visual studio 2013\Projects\DocumentStorage\DocumentStorage.WebUI\bin\System.Net.Http.Formatting.dll
+C:\Users\Lite\documents\visual studio 2013\Projects\DocumentStorage\DocumentStorage.WebUI\bin\System.Net.Http.WebRequest.dll
+C:\Users\Lite\documents\visual studio 2013\Projects\DocumentStorage\DocumentStorage.WebUI\bin\System.Web.Http.dll
+C:\Users\Lite\documents\visual studio 2013\Projects\DocumentStorage\DocumentStorage.WebUI\bin\System.Web.Http.WebHost.dll
+C:\Users\Lite\documents\visual studio 2013\Projects\DocumentStorage\DocumentStorage.WebUI\bin\System.Web.Mvc.dll
+C:\Users\Lite\documents\visual studio 2013\Projects\DocumentStorage\DocumentStorage.WebUI\bin\System.Web.Optimization.dll
+C:\Users\Lite\documents\visual studio 2013\Projects\DocumentStorage\DocumentStorage.WebUI\bin\System.Web.Providers.dll
+C:\Users\Lite\documents\visual studio 2013\Projects\DocumentStorage\DocumentStorage.WebUI\bin\System.Web.Razor.dll
+C:\Users\Lite\documents\visual studio 2013\Projects\DocumentStorage\DocumentStorage.WebUI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Lite\documents\visual studio 2013\Projects\DocumentStorage\DocumentStorage.WebUI\bin\System.Web.WebPages.dll
+C:\Users\Lite\documents\visual studio 2013\Projects\DocumentStorage\DocumentStorage.WebUI\bin\System.Web.WebPages.Razor.dll
+C:\Users\Lite\documents\visual studio 2013\Projects\DocumentStorage\DocumentStorage.WebUI\bin\WebGrease.dll
+C:\Users\Lite\documents\visual studio 2013\Projects\DocumentStorage\DocumentStorage.WebUI\bin\DocumentStorage.Domain.pdb
+C:\Users\Lite\documents\visual studio 2013\Projects\DocumentStorage\DocumentStorage.WebUI\bin\EntityFramework.xml
+C:\Users\Lite\documents\visual studio 2013\Projects\DocumentStorage\DocumentStorage.WebUI\bin\Newtonsoft.Json.xml
+C:\Users\Lite\documents\visual studio 2013\Projects\DocumentStorage\DocumentStorage.WebUI\bin\System.Net.Http.xml
+C:\Users\Lite\documents\visual studio 2013\Projects\DocumentStorage\DocumentStorage.WebUI\bin\System.Net.Http.Formatting.xml
+C:\Users\Lite\documents\visual studio 2013\Projects\DocumentStorage\DocumentStorage.WebUI\bin\System.Net.Http.WebRequest.xml
+C:\Users\Lite\documents\visual studio 2013\Projects\DocumentStorage\DocumentStorage.WebUI\bin\System.Web.Http.xml
+C:\Users\Lite\documents\visual studio 2013\Projects\DocumentStorage\DocumentStorage.WebUI\bin\System.Web.Http.WebHost.xml
+C:\Users\Lite\documents\visual studio 2013\Projects\DocumentStorage\DocumentStorage.WebUI\bin\System.Web.Mvc.xml
+C:\Users\Lite\documents\visual studio 2013\Projects\DocumentStorage\DocumentStorage.WebUI\bin\System.Web.Razor.xml
+C:\Users\Lite\documents\visual studio 2013\Projects\DocumentStorage\DocumentStorage.WebUI\bin\System.Web.WebPages.xml
+C:\Users\Lite\documents\visual studio 2013\Projects\DocumentStorage\DocumentStorage.WebUI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Lite\documents\visual studio 2013\Projects\DocumentStorage\DocumentStorage.WebUI\bin\System.Web.WebPages.Razor.xml
+C:\Users\Lite\documents\visual studio 2013\Projects\DocumentStorage\DocumentStorage.WebUI\obj\Debug\DocumentStorage.WebUI.csprojResolveAssemblyReference.cache
+C:\Users\Lite\documents\visual studio 2013\Projects\DocumentStorage\DocumentStorage.WebUI\obj\Debug\DocumentStorage.WebUI.dll
+C:\Users\Lite\documents\visual studio 2013\Projects\DocumentStorage\DocumentStorage.WebUI\obj\Debug\DocumentStorage.WebUI.pdb
+C:\Users\Lite\documents\visual studio 2013\Projects\DocumentStorage\DocumentStorage.WebUI\bin\Moq.dll
+C:\Users\Lite\documents\visual studio 2013\Projects\DocumentStorage\DocumentStorage.WebUI\bin\Ninject.dll
+C:\Users\Lite\documents\visual studio 2013\Projects\DocumentStorage\DocumentStorage.WebUI\bin\Moq.xml
+C:\Users\Lite\documents\visual studio 2013\Projects\DocumentStorage\DocumentStorage.WebUI\bin\Ninject.xml
+C:\Users\Lite\documents\visual studio 2013\Projects\DocumentStorage\DocumentStorage.WebUI\bin\Iesi.Collections.dll
+C:\Users\Lite\documents\visual studio 2013\Projects\DocumentStorage\DocumentStorage.WebUI\bin\NHibernate.dll
+C:\Users\Lite\documents\visual studio 2013\Projects\DocumentStorage\DocumentStorage.WebUI\bin\Iesi.Collections.xml
+C:\Users\Lite\documents\visual studio 2013\Projects\DocumentStorage\DocumentStorage.WebUI\bin\NHibernate.xml
+C:\Users\Lite\documents\visual studio 2013\Projects\DocumentStorage\DocumentStorage.WebUI\bin\DocumentFormat.OpenXml.dll
+C:\Users\Lite\documents\visual studio 2013\Projects\DocumentStorage\DocumentStorage.WebUI\bin\DocumentFormat.OpenXml.xml
+C:\Users\Lite\documents\visual studio 2013\Projects\DocumentStorage\DocumentStorage.WebUI\bin\Microsoft.Web.Mvc.dll
+C:\Users\Tkach\OneDrive - vyatsu\Рабочий стол\Temp\Elma\DocumentStorage\DocumentStorage.WebUI\bin\DocumentStorage.WebUI.dll.config
+C:\Users\Tkach\OneDrive - vyatsu\Рабочий стол\Temp\Elma\DocumentStorage\DocumentStorage.WebUI\bin\DocumentStorage.WebUI.dll
+C:\Users\Tkach\OneDrive - vyatsu\Рабочий стол\Temp\Elma\DocumentStorage\DocumentStorage.WebUI\bin\DocumentStorage.WebUI.pdb
+C:\Users\Tkach\OneDrive - vyatsu\Рабочий стол\Temp\Elma\DocumentStorage\DocumentStorage.WebUI\bin\DocumentFormat.OpenXml.dll
+C:\Users\Tkach\OneDrive - vyatsu\Рабочий стол\Temp\Elma\DocumentStorage\DocumentStorage.WebUI\bin\DocumentStorage.Domain.dll
+C:\Users\Tkach\OneDrive - vyatsu\Рабочий стол\Temp\Elma\DocumentStorage\DocumentStorage.WebUI\bin\EntityFramework.dll
+C:\Users\Tkach\OneDrive - vyatsu\Рабочий стол\Temp\Elma\DocumentStorage\DocumentStorage.WebUI\bin\Iesi.Collections.dll
+C:\Users\Tkach\OneDrive - vyatsu\Рабочий стол\Temp\Elma\DocumentStorage\DocumentStorage.WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Tkach\OneDrive - vyatsu\Рабочий стол\Temp\Elma\DocumentStorage\DocumentStorage.WebUI\bin\Microsoft.Web.Mvc.dll
+C:\Users\Tkach\OneDrive - vyatsu\Рабочий стол\Temp\Elma\DocumentStorage\DocumentStorage.WebUI\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Tkach\OneDrive - vyatsu\Рабочий стол\Temp\Elma\DocumentStorage\DocumentStorage.WebUI\bin\Newtonsoft.Json.dll
+C:\Users\Tkach\OneDrive - vyatsu\Рабочий стол\Temp\Elma\DocumentStorage\DocumentStorage.WebUI\bin\NHibernate.dll
+C:\Users\Tkach\OneDrive - vyatsu\Рабочий стол\Temp\Elma\DocumentStorage\DocumentStorage.WebUI\bin\Ninject.dll
+C:\Users\Tkach\OneDrive - vyatsu\Рабочий стол\Temp\Elma\DocumentStorage\DocumentStorage.WebUI\bin\System.Net.Http.Formatting.dll
+C:\Users\Tkach\OneDrive - vyatsu\Рабочий стол\Temp\Elma\DocumentStorage\DocumentStorage.WebUI\bin\System.Web.Http.dll
+C:\Users\Tkach\OneDrive - vyatsu\Рабочий стол\Temp\Elma\DocumentStorage\DocumentStorage.WebUI\bin\System.Web.Http.WebHost.dll
+C:\Users\Tkach\OneDrive - vyatsu\Рабочий стол\Temp\Elma\DocumentStorage\DocumentStorage.WebUI\bin\System.Web.Mvc.dll
+C:\Users\Tkach\OneDrive - vyatsu\Рабочий стол\Temp\Elma\DocumentStorage\DocumentStorage.WebUI\bin\System.Web.Optimization.dll
+C:\Users\Tkach\OneDrive - vyatsu\Рабочий стол\Temp\Elma\DocumentStorage\DocumentStorage.WebUI\bin\System.Web.Providers.dll
+C:\Users\Tkach\OneDrive - vyatsu\Рабочий стол\Temp\Elma\DocumentStorage\DocumentStorage.WebUI\bin\System.Web.Razor.dll
+C:\Users\Tkach\OneDrive - vyatsu\Рабочий стол\Temp\Elma\DocumentStorage\DocumentStorage.WebUI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Tkach\OneDrive - vyatsu\Рабочий стол\Temp\Elma\DocumentStorage\DocumentStorage.WebUI\bin\System.Web.WebPages.dll
+C:\Users\Tkach\OneDrive - vyatsu\Рабочий стол\Temp\Elma\DocumentStorage\DocumentStorage.WebUI\bin\System.Web.WebPages.Razor.dll
+C:\Users\Tkach\OneDrive - vyatsu\Рабочий стол\Temp\Elma\DocumentStorage\DocumentStorage.WebUI\bin\WebGrease.dll
+C:\Users\Tkach\OneDrive - vyatsu\Рабочий стол\Temp\Elma\DocumentStorage\DocumentStorage.WebUI\bin\System.Net.Http.dll
+C:\Users\Tkach\OneDrive - vyatsu\Рабочий стол\Temp\Elma\DocumentStorage\DocumentStorage.WebUI\bin\Antlr3.Runtime.dll
+C:\Users\Tkach\OneDrive - vyatsu\Рабочий стол\Temp\Elma\DocumentStorage\DocumentStorage.WebUI\bin\DocumentStorage.Domain.pdb
+C:\Users\Tkach\OneDrive - vyatsu\Рабочий стол\Temp\Elma\DocumentStorage\DocumentStorage.WebUI\bin\DocumentFormat.OpenXml.xml
+C:\Users\Tkach\OneDrive - vyatsu\Рабочий стол\Temp\Elma\DocumentStorage\DocumentStorage.WebUI\bin\Iesi.Collections.xml
+C:\Users\Tkach\OneDrive - vyatsu\Рабочий стол\Temp\Elma\DocumentStorage\DocumentStorage.WebUI\bin\NHibernate.xml
+C:\Users\Tkach\OneDrive - vyatsu\Рабочий стол\Temp\Elma\DocumentStorage\DocumentStorage.WebUI\bin\Ninject.xml
+C:\Users\Tkach\OneDrive - vyatsu\Рабочий стол\Temp\Elma\DocumentStorage\DocumentStorage.WebUI\bin\EntityFramework.xml
+C:\Users\Tkach\OneDrive - vyatsu\Рабочий стол\Temp\Elma\DocumentStorage\DocumentStorage.WebUI\bin\Newtonsoft.Json.xml
+C:\Users\Tkach\OneDrive - vyatsu\Рабочий стол\Temp\Elma\DocumentStorage\DocumentStorage.WebUI\bin\System.Net.Http.Formatting.xml
+C:\Users\Tkach\OneDrive - vyatsu\Рабочий стол\Temp\Elma\DocumentStorage\DocumentStorage.WebUI\bin\System.Web.Http.xml
+C:\Users\Tkach\OneDrive - vyatsu\Рабочий стол\Temp\Elma\DocumentStorage\DocumentStorage.WebUI\bin\System.Web.Http.WebHost.xml
+C:\Users\Tkach\OneDrive - vyatsu\Рабочий стол\Temp\Elma\DocumentStorage\DocumentStorage.WebUI\bin\System.Web.Mvc.xml
+C:\Users\Tkach\OneDrive - vyatsu\Рабочий стол\Temp\Elma\DocumentStorage\DocumentStorage.WebUI\bin\System.Web.Razor.xml
+C:\Users\Tkach\OneDrive - vyatsu\Рабочий стол\Temp\Elma\DocumentStorage\DocumentStorage.WebUI\bin\System.Web.WebPages.xml
+C:\Users\Tkach\OneDrive - vyatsu\Рабочий стол\Temp\Elma\DocumentStorage\DocumentStorage.WebUI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Tkach\OneDrive - vyatsu\Рабочий стол\Temp\Elma\DocumentStorage\DocumentStorage.WebUI\bin\System.Web.WebPages.Razor.xml
+C:\Users\Tkach\OneDrive - vyatsu\Рабочий стол\Temp\Elma\DocumentStorage\DocumentStorage.WebUI\bin\System.Net.Http.xml
+C:\Users\Tkach\OneDrive - vyatsu\Рабочий стол\Temp\Elma\DocumentStorage\DocumentStorage.WebUI\obj\Debug\DocumentStorage.WebUI.csprojAssemblyReference.cache
+C:\Users\Tkach\OneDrive - vyatsu\Рабочий стол\Temp\Elma\DocumentStorage\DocumentStorage.WebUI\obj\Debug\DocumentStorage.WebUI.csproj.CoreCompileInputs.cache
+C:\Users\Tkach\OneDrive - vyatsu\Рабочий стол\Temp\Elma\DocumentStorage\DocumentStorage.WebUI\obj\Debug\DocumentStorage.WebUI.csproj.CopyComplete
+C:\Users\Tkach\OneDrive - vyatsu\Рабочий стол\Temp\Elma\DocumentStorage\DocumentStorage.WebUI\obj\Debug\DocumentStorage.WebUI.dll
+C:\Users\Tkach\OneDrive - vyatsu\Рабочий стол\Temp\Elma\DocumentStorage\DocumentStorage.WebUI\obj\Debug\DocumentStorage.WebUI.pdb

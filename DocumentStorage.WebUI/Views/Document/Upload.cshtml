@@ -1,0 +1,25 @@
+﻿@model DocumentStorage.WebUI.Models.DocumentUploadViewModel
+@{
+    ViewBag.Title = "Upload";
+}
+
+<h2>ЗАГРУЗКА ФАЙЛА</h2>
+<h6 class="text-primary">Загрузите файл в формате <span class="label label-primary">.docx </span>с Вашего компьютера</h6><hr />
+
+@using (Html.BeginForm(null, null, FormMethod.Post, new { @enctype = "multipart/form-data" }))
+{
+    <div class="form-row">
+        <div class="form-group col-md-6">
+            <label for="Name">Название</label>
+            @Html.TextBoxFor(n => n.Name, new { @class = "form-control", @placeholder = "Название файла" })
+            @Html.ValidationMessageFor(n => n.Name)
+        </div>
+        <div class="form-group col-md-6">
+            <label for="uploadFile">Файл</label>
+            @Html.TextBoxFor(f => f.uploadFile, new { @type = "file", @class = "form-control", @placeholder = "Файл" })
+            @Html.ValidationMessageFor(f => f.uploadFile)
+        </div>
+    </div>
+    <button type="submit" class="btn btn-primary">Загрузить</button>
+}
+

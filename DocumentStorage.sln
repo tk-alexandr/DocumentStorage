@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DocumentStorage.Domain", "DocumentStorage.Domain\DocumentStorage.Domain.csproj", "{27A210A3-B738-4E4F-B943-B7FF0C76E4BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DocumentStorage.WebUI", "DocumentStorage.WebUI\DocumentStorage.WebUI.csproj", "{DCF670EF-4011-421F-9D6D-F35D9A66792C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27A210A3-B738-4E4F-B943-B7FF0C76E4BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27A210A3-B738-4E4F-B943-B7FF0C76E4BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27A210A3-B738-4E4F-B943-B7FF0C76E4BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27A210A3-B738-4E4F-B943-B7FF0C76E4BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCF670EF-4011-421F-9D6D-F35D9A66792C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCF670EF-4011-421F-9D6D-F35D9A66792C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCF670EF-4011-421F-9D6D-F35D9A66792C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCF670EF-4011-421F-9D6D-F35D9A66792C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {174F61CD-7772-4866-A196-B50C9A1CCDA1}
+	EndGlobalSection
+EndGlobal

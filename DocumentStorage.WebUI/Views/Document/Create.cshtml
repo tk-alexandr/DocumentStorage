@@ -1,0 +1,22 @@
+﻿@model DocumentStorage.WebUI.Models.DocumentCreateViewModel
+
+    <h2>Загрузка нового документа</h2><hr />
+    
+@using (Html.BeginForm(null, null, FormMethod.Post, new { @enctype = "multipart/form-data" }))
+{
+    <div class="form-row">
+        <div class="form-group col-md-12">
+            <label for="Name">Название</label>
+            @Html.TextBoxFor(n => n.Name, new { @class = "form-control", @placeholder = "Название файла" })
+            @Html.ValidationMessageFor(n => n.Name)
+        </div>
+        <div class="form-group col-md-12">
+            <label for="contentArea">Текст</label>
+            @Html.TextAreaFor(f => f.Content, new { @id = "contentArea", @row = "20", @class = "form-control", @placeholder = "Содержание документа..." })
+            @Html.ValidationMessageFor(n => n.Content)
+        </div>
+    </div>
+    <button type="submit" class="btn btn-primary">Загрузить</button>
+}
+   
+
